@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  char s[20] = "You are Using GitHub...";
+  char s[20] = "You are Using GitHub....";
   printf("%s",s);
   return 0;
 }
